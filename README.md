@@ -1,6 +1,6 @@
 # SimpleHTTPServer
 
-TODO: Write a gem description
+A Ruby based Simple HTTP Server that's not so simple after all.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Underdevelopment
 
 ## Contributing
 
